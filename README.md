@@ -21,7 +21,7 @@ Una calculadora web interactiva que realiza operaciones básicas: suma, resta, m
 ## Instalación y uso
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tuusuario/calculadora-basica.git
+git clone https://github.com/ITZ-NANO21-MC/Calculadora-Nano
 ```
 
 2. Abre el archivo `index.html` en cualquier navegador moderno
